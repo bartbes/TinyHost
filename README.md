@@ -2,6 +2,7 @@
 
 ###Needed utilities###
 
+    awk
     base64
     curl
     file
@@ -14,5 +15,8 @@
 For example:
 
     tinyhost.sh myfile.html
+
+###License###
+At the moment, all rights reserved, will decide upon a license later.
 
 [tinyurl]:  http://tinyurl.com
